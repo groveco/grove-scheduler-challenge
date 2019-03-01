@@ -8,7 +8,7 @@ Take a look at the data from [this API call](https://scheduler-challenge.herokua
 
 Using whatever JavaScript framework(s) you believe to be appropriate, create a single-page schedulizer application that:
 
-1. makes a call to [this endpoint](https://scheduler-challenge.herokuapp.com/schedule) to retrieve the event data
+1. makes a call to [this endpoint](https://scheduler-challenge.grove.co/schedule) to retrieve the event data
 2. display the events in a logical, readable manner. At a minimum, show events happening in the next 24 hours and events that have happened in the previous 3 hours from the current time
 3. uses the [Web Notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) to create notifications when an event is starting
 
